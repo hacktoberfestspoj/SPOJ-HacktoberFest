@@ -3,4 +3,4 @@
 
 # Fork this repo add a spoj solution in the form SPOJ_PROBLEM_CODE.cpp
 
-# Create a pull request and I will merge it
+# Create a pull request and name it by Problem Code for example "Adding FARIDA.cpp"
