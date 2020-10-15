@@ -5,4 +5,4 @@
 
 # Create a pull request and name it by Problem Code for example "Adding FARIDA.cpp"
 
-# Don't to star the repo
+# Don't forget to star the repo
